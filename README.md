@@ -1,4 +1,3 @@
-﻿# Connect-4-Model-Training-Game-
 # Connect 4 Game with AI Agents
 
 This project implements the classic Connect 4 game with various AI implementations, including Minimax algorithm, Machine Learning-based agents, and other AI strategies. The project features multiple game modes, performance evaluation tools, and a comprehensive AI training system.
